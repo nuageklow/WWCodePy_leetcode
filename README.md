@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center"><img height="200" src="leetcode.png">
 <h2 align="center" margin-bottom="0"><b>Welcome to <font color='orange'>Leetcode</font> Study Group</b></h3>
 <h3 align="center" margin-top="0">by <font color='#007a7c'><a href="https://www.womenwhocode.com/python">WomenWhoCode Python</a></font></h3>
@@ -8,7 +9,7 @@ __*join us every other Thursday at 8PM EDT/EST to crack a algorithm pattern prob
 presented by: Chethana and Karen
 
 ---------------------
-<div align="center">
+
 
 __<font size=4>Table of Content</font>__
 
