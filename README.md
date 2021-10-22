@@ -15,12 +15,12 @@ __<font size=4>Table of Content</font>__
 
 | __Session__ | Topic Pattern | Materials | Easy Problem Suggestions |  
 | :------: |:------: | :------- | :------- |
-| 1 | Two Pointers | [slides](slides/S1_TwoPointers.pdf) <br/> [code](https://replit.com/join/bqjttagwxw-codernewbie) <br /> [Leetcode Link]() | [Two Sum](https://leetcode.com/problems/two-sum/) <br /> [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| 2 | Sliding Window | [slides](slides/S2_SlidingWindow.pdf) <br /> [code](https://replit.com/@codernewbie/WWCodePythonLeetcode) <br /> [leetcode link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br /> | |
-| 3 | Binary Serach | [slides](slides/S3_BinarySearch.pdf) <br /> [code](https://replit.com/@codernewbie/WWCodePythonLeetcode#BinarySearch/IntroScratchPad.py) <br /> [leetcode link](https://leetcode.com/problems/search-in-rotated-sorted-array/) <br /> | |
-| 4 | Greedy | slides <br /> code <br /> leetcode link <br /> | |
-| 5 | Hashtable | slides <br /> code <br /> leetcode link <br /> | |
-| 6 | DFS | slides <br /> code <br /> leetcode link <br /> | |
-| 7 | Backtracking | slides <br /> code <br /> leetcode link <br /> | |
+| 1 | Two Pointers | [Slides](slides/S1_TwoPointers.pdf) <br/> [Repl Link](https://replit.com/join/bqjttagwxw-codernewbie) <br /> [Leetcode Link]() | [Two Sum](https://leetcode.com/problems/two-sum/) <br /> [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 2 | Sliding Window | [Slides](slides/S2_SlidingWindow.pdf) <br /> [Repl Link](https://replit.com/@codernewbie/WWCodePythonLeetcode) <br /> [Leetcode link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br /> | |
+| 3 | Binary Serach | [Slides](slides/S3_BinarySearch.pdf) <br /> [Repl Link](https://replit.com/@codernewbie/WWCodePythonLeetcode#BinarySearch/IntroScratchPad.py) <br /> [Leetcode Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) <br /> | |
+| 4 | Greedy | Slides <br /> Repl Link <br /> Leetcode Link <br /> | |
+| 5 | Hashtable | Slides <br /> Repl Link <br /> Leetcode Link <br /> | |
+| 6 | DFS | Slides <br /> Repl Link <br /> Leetcode Link <br /> | |
+| 7 | Backtracking | Slides <br /> Repl Link <br /> Leetcode Link <br /> | |
 
 </div>
